@@ -1,4 +1,3 @@
-# balss
 <html>
   <head>
     <title>Ryl's Bals</title>
